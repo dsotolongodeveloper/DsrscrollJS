@@ -31,7 +31,8 @@ Librería para el trabajo con scroll en la página web
 
 # Inicializar librería
 
-	Para inicializar la librería usted debe utilizar la siguiente función pasando los parámetros según quiera utilizar las funcionalidades incorporadas 
+  Para inicializar la librería usted debe utilizar la siguiente función pasando los parámetros según
+  quiera utilizar las funcionalidades incorporadas. 
 
 ```js
 DSRscrollinit(true,true,true,true,30);
