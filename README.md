@@ -11,10 +11,20 @@ Libreria para el trabajo con scroll en la pagina web
 
 # Instalación
 
-  En el head de la pagina incluir 
+
   
-  <link rel="stylesheet" href="Dsrscroll/css/style.css">	
+  ``` html
+  <html>
+	<head>
+	<title></title>
+	<Link rel="stylesheet"  href="Dsrscroll/css/style.css">
+	</head>
+	<body>
+	<script src="Dsrscroll/js/Dsrscroll.js"></scrip>
+	</body>
+   </html>
+```
   
-  Al final del body del html incluir 
+
   
-  <script src="Dsrscroll/js/Dsrscroll.js"></scrip>
+  
